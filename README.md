@@ -100,4 +100,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## ⭐ Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you! 
